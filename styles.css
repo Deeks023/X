@@ -1,0 +1,133 @@
+body {
+  margin:0;
+text-align: center;
+}
+
+.Top-container{
+    background-color: powderblue;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  position:relative;
+}
+
+h1{
+  margin-bottom:10px;
+  color:#66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  height:120px;
+}
+
+.first-cloud {
+  position: absolute;
+   margin-top:0px;
+   left:70%;
+ }
+
+.second-cloud {
+  position:absolute;
+  right:70%;
+}
+
+hr{
+  margin:0;
+  color: black;
+}
+
+dd{
+  color:#66BFBF;
+  margin-top:0;
+  font-size:40px;
+font-style: normal;
+}
+
+.middle-container{
+  position: relative;
+  background-color: white;
+  padding-top: 20px;
+}
+.profile{
+    padding-top: 20px;
+}
+.boy{
+  border-radius:50%;
+  background-color: grey;
+  height:150px;
+  width:140px;
+}
+.statement1{
+  font-weight: normal;
+  font-size: 20px;
+  margin-left:0;
+}
+.skills{
+  background-color:white;
+  padding-top: 20px;
+  margin-top: 0;
+  font-family: 'Fjalla One', sans-serif;
+}
+.My-skills{
+font-size: 35px;
+  margin:0;
+}
+.skill-row1{
+  display: inline-block;
+  position: relative;
+  padding-bottom: 50px;
+}
+.html-pic{
+
+}
+.html{
+  background-color:grey;
+  border-radius: 60%;
+  height:300px;
+  width:300px;
+}
+h3{
+  font-size: 30px;
+  color:#11999E;
+}
+
+.css{
+  background-color:grey;
+  border-radius: 60%;
+  height:300px;
+  width:300px;
+}
+h3{
+  font-size: 30px;
+  color:#11999E;
+}
+.statement3{
+  font-size: 20px;
+  margin-left: 0;
+}
+
+.contact-me{
+  padding-top: 20px;
+  background-color: white;
+}
+.touch{
+  margin:0;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: 'Fjalla One', sans-serif;
+}
+.statement4{
+  font-size: 20px;
+    font-weight: normal;
+  margin-left: 0;
+}
+.statement5{
+  font-size: 20px;
+  font-weight: normal;
+  margin-left: 0;
+}
+.btn{
+  color:blue;
+  font-size: 25px;
+}
+.footer-link{
+  font-size:15px;
+}
